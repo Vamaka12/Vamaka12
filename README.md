@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Vamaka12&color=red&style=flat-square)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamaka12&show_icons=true&theme=dark)
 
 
